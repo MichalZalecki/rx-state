@@ -1,5 +1,5 @@
 {
-  "name": "@rx-state/core",
+  "name": "rx_state",
   "version": "0.0.1",
   "description": "Connect rxjs to React component in Redux style... but without dispatch and constants.",
   "main": "lib/RxState.js",
