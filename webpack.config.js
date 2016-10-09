@@ -25,8 +25,8 @@ var config = {
     umdNamedDefine: true
   },
   externals: {
-    "react": "React",
-    "rxjs": "Rx"
+    "react": "react",
+    "rxjs": "rxjs"
   },
   module: {
     loaders: [
